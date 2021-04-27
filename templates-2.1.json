@@ -1,7 +1,6 @@
 {
 	"version": "2",
-	"templates": 
-			[{
+	"templates":[{
 			"type": 1,
 			"title": "Registry",
 			"description": "Docker image registry",
@@ -1065,8 +1064,7 @@
 	  }
 	]
 }
-
-	[
+ [
 		{
 			"categories": [
 				"Music"
